@@ -1,0 +1,7 @@
+2014-12-12 18:06:15 [INFO]: title:: test, msg:: "this is the test"
+2014-12-12 18:07:11 [INFO]: title:: test, msg:: "this is the test"
+[INFO]: title:: test, msg:: "this is the test"
+[INFO]: title:: test2, msg:: "this is the test2"
+2014-12-12 18:11:54 [INFO]: title:: test, msg:: "this is the test"
+[INFO]: title:: test2, msg:: "this is the test2"
+2014-12-12 18:12:37 [INFO]: title:: test, msg:: "this is the test"
